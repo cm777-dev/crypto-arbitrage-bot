@@ -2,7 +2,7 @@ ccxt==4.1.13
 python-dotenv==1.0.0
 pandas==2.1.1
 numpy==1.26.0
-requests==2.31.0
+requests==2.32.2
 websockets==11.0.3
 aiohttp==3.8.5
 asyncio==3.4.3

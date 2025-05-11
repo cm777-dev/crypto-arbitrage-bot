@@ -4,7 +4,7 @@ pandas==2.1.1
 numpy==1.26.0
 requests==2.31.0
 websockets==11.0.3
-aiohttp==3.8.5
+aiohttp==3.11.0b0
 asyncio==3.4.3
 python-binance==1.0.19
 colorama==0.4.6
